@@ -12,14 +12,11 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://reqres.in/api/users?page=1",
-					"protocol": "https",
+					"raw": "{{HOST_URL}}/users?page=1",
 					"host": [
-						"reqres",
-						"in"
+						"{{HOST_URL}}"
 					],
 					"path": [
-						"api",
 						"users"
 					],
 					"query": [
@@ -38,14 +35,11 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://reqres.in/api/users/2",
-					"protocol": "https",
+					"raw": "{{HOST_URL}}/users/2",
 					"host": [
-						"reqres",
-						"in"
+						"{{HOST_URL}}"
 					],
 					"path": [
-						"api",
 						"users",
 						"2"
 					]
@@ -68,14 +62,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://reqres.in/api/users",
-					"protocol": "https",
+					"raw": "{{HOST_URL}}/users",
 					"host": [
-						"reqres",
-						"in"
+						"{{HOST_URL}}"
 					],
 					"path": [
-						"api",
 						"users"
 					]
 				}
@@ -97,14 +88,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://reqres.in/api/users/2",
-					"protocol": "https",
+					"raw": "{{HOST_URL}}/users/2",
 					"host": [
-						"reqres",
-						"in"
+						"{{HOST_URL}}"
 					],
 					"path": [
-						"api",
 						"users",
 						"2"
 					]
@@ -118,14 +106,11 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://reqres.in/api/users/2",
-					"protocol": "https",
+					"raw": "{{HOST_URL}}/users/2",
 					"host": [
-						"reqres",
-						"in"
+						"{{HOST_URL}}"
 					],
 					"path": [
-						"api",
 						"users",
 						"2"
 					]
@@ -148,14 +133,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://reqres.in/api/users/2",
-					"protocol": "https",
+					"raw": "{{HOST_URL}}/users/2",
 					"host": [
-						"reqres",
-						"in"
+						"{{HOST_URL}}"
 					],
 					"path": [
-						"api",
 						"users",
 						"2"
 					]
